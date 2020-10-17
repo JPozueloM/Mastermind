@@ -1,0 +1,8 @@
+E:\Visual Studio\MASTERMIND\MASTERMIND\bin\Debug\MASTERMIND.dll
+E:\Visual Studio\MASTERMIND\MASTERMIND\bin\Debug\MASTERMIND.pdb
+E:\Visual Studio\MASTERMIND\MASTERMIND\obj\Debug\MASTERMIND.csprojAssemblyReference.cache
+E:\Visual Studio\MASTERMIND\MASTERMIND\obj\Debug\MASTERMIND.Mastermind.resources
+E:\Visual Studio\MASTERMIND\MASTERMIND\obj\Debug\MASTERMIND.csproj.GenerateResource.cache
+E:\Visual Studio\MASTERMIND\MASTERMIND\obj\Debug\MASTERMIND.csproj.CoreCompileInputs.cache
+E:\Visual Studio\MASTERMIND\MASTERMIND\obj\Debug\MASTERMIND.dll
+E:\Visual Studio\MASTERMIND\MASTERMIND\obj\Debug\MASTERMIND.pdb
